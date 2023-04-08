@@ -13,3 +13,10 @@ my first idea is not gonna work, or it illegible to failure, Recently worked on 
 - proper in depth image 
 - what i want to do is draw a line in the correct path
 start will a simple image
+
+
+Introduction to the Sqaure Class
+
+and the Checking of balck
+
+i had the idea but i needed auto save
