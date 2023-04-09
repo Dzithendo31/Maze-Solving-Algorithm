@@ -14,9 +14,26 @@ my first idea is not gonna work, or it illegible to failure, Recently worked on 
 - what i want to do is draw a line in the correct path
 start will a simple image
 
+using java create a class clalled sqaure that will be storing Group of pizels
+- so each square of the image will have pixels
+- on the path will be white
+- those that include the image would be containing black pixels
 
-Introduction to the Sqaure Class
+--it gonna move with the neighbors
+- then have all the paths 
 
-and the Checking of balck
+SQAURE
+bool visit = false
+int[][] 2D = {{},{}}
+bool hasB = True, defualt os true
 
-i had the idea but i needed auto save
+methods
+checkBlackNode(){
+  will set hasB to true or false
+}
+
+Use sort of a data structure 
+- each node will have to know the Three neighbors 
+- can use floodfill - NOpe
+
+- but mmmmmmmmmhh
